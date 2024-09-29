@@ -7,9 +7,9 @@ This repository is not intended to provide exact solutions for the assignment. I
 | --- |
 
 ## Table of Content
-[📍 Location API Fetching / CSV File](/01-fetch-location-api/README.md)
+[📍 Location API Fetching / CSV File](/01-fetch-location-api)
 
-[📑 Boyer-Moore Algorithm / Sub-string indices](/02-boyer-moore-algorithm/README.md)
+[📑 Boyer-Moore Algorithm / Sub-string indices](/02-boyer-moore-algorithm)
 
-[🪧 Maze Runner / Shortest Path Algorithm](/03-maze-runner/README.md)
+[🪧 Maze Runner / Shortest Path Algorithm](/03-maze-runner)
 
